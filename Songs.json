@@ -1,0 +1,63 @@
+[
+    {
+		"title" : "Stairway to Heaven",
+		"Artist"  : "Led Zeppelin",
+		"Genre"	 : ["Rock"]
+		}, 
+ {
+		"Title" : "Hotel California",
+		"Artist"  : "Eagles",
+		"Genre"	 : ["Rock"]
+		
+},
+ {
+		"Title" : "Smells Like Teen Spirit",
+		"Artist"  : "Nirvana",
+		"Genre"	 : ["Rock"]
+		
+        
+},
+ {
+		"Title" : "One Step Closer",
+		"Artist"  : "Linkin Park",
+		"Genre"	 : ["Metal"," Rock"]
+		
+        
+},
+{
+		"Title" : "Watermelon Sugar",
+		"Artist"  : "Harry Styles",
+		"Genre"	 : ["Pop"]
+        
+},
+ {
+		"Title" : "Drivers License",
+		"Artist"  : "Olivia Rodrigo",
+		"Genre"	 : ["Pop"]
+        
+},
+{
+		"Title" : "Dynamite",
+		"Artist"  : "BTS",
+		"Genre"	 : ["Pop"]
+        
+},
+{
+		"Title" : "Wagon Wheel",
+		"Artist"  : "Darius Rucker",
+		"Genre"	 : ["Country"]
+        
+},
+ {
+		"Title" : "The House That Built Me",
+		"Artist"  : "Miranda Lambert",
+		"Genre"	 : ["Country"]
+        
+},
+ {
+		"Title" : "Before He Cheats",
+		"Artist"  : "Carrie Underwood",
+		"Genre"	 : ["Country"]
+}
+
+]
